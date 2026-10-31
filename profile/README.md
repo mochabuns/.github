@@ -22,7 +22,7 @@ We're just getting started. Projects will appear here as they're ready.
 
 ### Find us
 
-- **Website:** [mochabun.co](https://mochabun.co) *(coming soon)*
+- **Website:** [mochabun.co](https://mochabun.co)
 - **Contact:** [hello@mochabun.co](mailto:hello@mochabun.co)
 
 ---
